@@ -1,0 +1,38 @@
+POSIX 1
+
+Process Creation and Control
+Signals
+Floating Point Exceptions
+Segmentation/Memory violations
+Illegal instructions
+Bus Errors
+Timers
+File and Directory Operations
+Pipes
+C Library
+IO Port Interface and Control
+Process Triggers
+
+POSIX 1b (Real-time extensions)
+
+Priority scheduling
+Real-time Signals
+Clocks and Timers
+Semaphores
+Message Passing
+Shared Memory
+Asynch and Synch IO
+Memory Locking Interface
+
+POSIC 1c (threads extensions)
+
+Thread creation, control, and cleanup
+Thread scheduling
+Thread synchronization
+Signal handling
+
+POSIX 2 (shell and utilities)
+
+Command interpreter
+Utility programs
+
