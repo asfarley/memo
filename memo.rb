@@ -1,7 +1,6 @@
 require 'roo'
 require 'roo-xls'
 require 'colorize'
-require 'win32console'
 
 script_path = File.dirname(__FILE__)
 question_files = []
